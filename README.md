@@ -83,5 +83,5 @@ This is the public GitHub home of the Seity project. For full details, hardware 
 
 <p align="center">
   © 2025 <a href="https://seityai.com">seityai.com</a> · P.IVA 05118880235<br>
-  Seity® is a registered trademark.
+  SeityAI® is a registered trademark.
 </p>
