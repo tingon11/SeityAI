@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Seity®</h1>
+<h1 align="center">SeityAI®</h1>
 
 <p align="center">
   <strong>Ex Data, Lux.</strong><br>
